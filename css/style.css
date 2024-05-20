@@ -45,6 +45,7 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
+    margin-top: auto; /* Pushes the button to the bottom */
       }
   
     
